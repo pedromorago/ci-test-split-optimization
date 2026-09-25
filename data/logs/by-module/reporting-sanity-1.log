@@ -1,0 +1,18 @@
+tests  |   -   1 [chrome] › src/tests/reporting/archive-projects/archive-projects-restore-and-delete.spec.ts › Archive projects restore and delete › caso 1
+tests  |   -   2 [chrome] › src/tests/reporting/archive-projects/archive-projects-restore-and-delete.spec.ts › Archive projects restore and delete › caso 2
+tests  |   -   3 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 6
+tests  |   -   4 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 7
+tests  |   -   5 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 7
+tests  |   -   6 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 8
+tests  |   ✓   7 [chrome] › src/tests/reporting/navigation.spec.ts › Navigation › caso 1 (9.7s)
+tests  |   ✓   8 [chrome] › src/tests/reporting/project-dashboard.spec.ts › Project dashboard › caso 2 (11.8s)
+tests  |   ✓   9 [chrome] › src/tests/reporting/project-list.spec.ts › Project list › caso 5 (5.8s)
+tests  |   ✓  10 [chrome] › src/tests/reporting/project-list.spec.ts › Project list › caso 6 (2.1s)
+tests  |   ✓  11 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 18 (22.5s)
+tests  |   ✓  12 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 19 (22.0s)
+tests  |   ✓  13 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 20 (22.4s)
+tests  |   ✓  14 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 21 (23.2s)
+tests  |   ✓  15 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 22 (31.3s)
+tests  |   ✓  16 [chrome] › src/tests/reporting/templates-dashboard.spec.ts › Templates dashboard › caso 3 (11.7s)
+tests  |   ✓  17 [chrome] › src/tests/reporting/templates-dashboard.spec.ts › Templates dashboard › caso 4 (9.2s)
+tests  |   -  18 [chrome] › src/tests/reporting/version-dashboard.spec.ts › Version dashboard › caso 1

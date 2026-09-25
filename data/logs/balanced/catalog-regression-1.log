@@ -1,0 +1,22 @@
+tests  |   -   1 [chrome] › src/tests/catalog/questionnaire.spec.ts › Questionnaire › caso 1
+tests  |   -   2 [chrome] › src/tests/catalog/questionnaire.spec.ts › Questionnaire › caso 2
+tests  |   -   3 [chrome] › src/tests/catalog/questionnaire.spec.ts › Questionnaire › caso 3
+tests  |   ✓   4 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 1 (22.4s)
+tests  |   ✓   5 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 2 (22.5s)
+tests  |   ✓   6 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 3 (23.9s)
+tests  |   ✓   7 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 4 (23.1s)
+tests  |   ✓   8 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 5 (22.5s)
+tests  |   ✓   9 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 6 (22.8s)
+tests  |   ✓  10 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 7 (22.3s)
+tests  |   ✓  11 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 8 (23.4s)
+tests  |   ✓  12 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 9 (22.9s)
+tests  |   ✓  13 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 10 (23.0s)
+tests  |   ✓  14 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 11 (22.7s)
+tests  |   ✓  15 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 12 (25.0s)
+tests  |   ✓  16 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 13 (22.3s)
+tests  |   ✓  17 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 14 (25.8s)
+tests  |   ✓  18 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 15 (23.5s)
+tests  |   ✓  19 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 16 (22.1s)
+tests  |   -  20 [chrome] › src/tests/catalog/reports-generation.spec.ts › Reports generation › caso 17
+tests  |   ✓  21 [chrome] › src/tests/catalog/reports-workflows.spec.ts › Reports workflows › caso 1 (38.7s)
+tests  |   ✓  22 [chrome] › src/tests/catalog/reports-workflows.spec.ts › Reports workflows › caso 2 (38.0s)

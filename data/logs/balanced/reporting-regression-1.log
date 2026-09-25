@@ -1,0 +1,44 @@
+tests  |   -   1 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 1
+tests  |   -   2 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 2
+tests  |   -   3 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 3
+tests  |   -   4 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 4
+tests  |   -   5 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 5
+tests  |   -   6 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 6
+tests  |   ✓   7 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 1 (3.9s)
+tests  |   ✓   8 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 2 (5.0s)
+tests  |   ✓   9 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 3 (6.8s)
+tests  |   ✓  10 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 4 (7.1s)
+tests  |   ✓  11 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 5 (6.8s)
+tests  |   -  12 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 6
+tests  |   ✓  13 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 7 (6.8s)
+tests  |   ✓  14 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 8 (9.1s)
+tests  |   ✓  15 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 9 (3.8s)
+tests  |   ✓  16 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 10 (13.3s)
+tests  |   ✓  17 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 11 (4.2s)
+tests  |   ✓  18 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 12 (5.8s)
+tests  |   -  19 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 13
+tests  |   ✓  20 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 14 (9.0s)
+tests  |   ✓  21 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 15 (6.4s)
+tests  |   ✓  22 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 16 (6.4s)
+tests  |   ✓  23 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 17 (5.5s)
+tests  |   ✓  24 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 18 (19.0s)
+tests  |   -  25 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 19
+tests  |   ✓  26 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 20 (21.2s)
+tests  |   ✓  27 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 21 (20.7s)
+tests  |   -  28 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 22
+tests  |   -  29 [chrome] › src/tests/reporting/component.spec.ts › Component › caso 23
+tests  |   ✓  30 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 1 (9.4s)
+tests  |   ✓  31 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 2 (12.0s)
+tests  |   -  32 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 3
+tests  |   -  33 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 4
+tests  |   ✓  34 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 5 (10.8s)
+tests  |   ✓  35 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 6 (10.9s)
+tests  |   ✓  36 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 7 (9.8s)
+tests  |   ✓  37 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 8 (11.8s)
+tests  |   ✓  38 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 9 (8.1s)
+tests  |   ✓  39 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 10 (9.7s)
+tests  |   ✓  40 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 11 (10.6s)
+tests  |   ✓  41 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 12 (9.5s)
+tests  |   ✓  42 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 13 (10.3s)
+tests  |   ✓  43 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 14 (9.2s)
+tests  |   ✓  44 [chrome] › src/tests/reporting/workflow-state-change.spec.ts › Workflow state change › caso 1 (20.9s)

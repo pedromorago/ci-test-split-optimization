@@ -1,0 +1,41 @@
+tests  |   -   1 [chrome] › src/tests/projects-1/configuration.spec.ts › Configuration › caso 1
+tests  |   -   2 [chrome] › src/tests/projects-1/configuration.spec.ts › Configuration › caso 2
+tests  |   -   3 [chrome] › src/tests/projects-1/configuration.spec.ts › Configuration › caso 3
+tests  |   ✓   4 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 1 (16.3s)
+tests  |   ✓   5 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 2 (15.0s)
+tests  |   ✓   6 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 3 (20.4s)
+tests  |   ✓   7 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 4 (25.3s)
+tests  |   ✓   8 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 5 (18.7s)
+tests  |   ✓   9 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 6 (50.6s)
+tests  |   ✓  10 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 7 (17.1s)
+tests  |   ✓  11 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 8 (32.2s)
+tests  |   ✓  12 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 9 (19.7s)
+tests  |   ✓  13 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 10 (22.1s)
+tests  |   ✓  14 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 11 (24.0s)
+tests  |   ✓  15 [chrome] › src/tests/projects-1/automations.spec.ts › Automations › caso 12 (26.4s)
+tests  |   ✓  16 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 1 (13.2s)
+tests  |   -  17 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 2
+tests  |   ✓  18 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 3 (13.8s)
+tests  |   ✓  19 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 4 (11.8s)
+tests  |   ✓  20 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 1 (13.8s)
+tests  |   ✓  21 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 2 (14.0s)
+tests  |   ✓  22 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 3 (18.9s)
+tests  |   ✓  23 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 4 (13.9s)
+tests  |   ✓  24 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 5 (15.4s)
+tests  |   ✓  25 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 6 (17.2s)
+tests  |   -  26 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 7
+tests  |   -  27 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 8
+tests  |   -  28 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 9
+tests  |   ✓  29 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 10 (21.4s)
+tests  |   ✓  30 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 11 (18.0s)
+tests  |   ✓  31 [chrome] › src/tests/projects-1/floating-modals.spec.ts › Floating modals › caso 12 (16.9s)
+tests  |   ✓  32 [chrome] › src/tests/projects-1/issue-tracker-profiles.spec.ts › Issue tracker profiles › caso 1 (30.4s)
+tests  |   ✓  33 [chrome] › src/tests/projects-1/issue-tracker-profiles.spec.ts › Issue tracker profiles › caso 2 (21.2s)
+tests  |   ✓  34 [chrome] › src/tests/projects-1/issue-tracker-profiles.spec.ts › Issue tracker profiles › caso 3 (36.7s)
+tests  |   ✓  35 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 1 (13.2s)
+tests  |   ✓  36 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 2 (12.1s)
+tests  |   ✘  37 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 3 (1.7m)
+tests  |   ✓  38 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 3 (13.8s)
+tests  |   ✓  39 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 4 (13.1s)
+tests  |   ✓  40 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 5 (13.5s)
+tests  |   ✓  41 [chrome] › src/tests/projects-1/findings.spec.ts › Findings › caso 6 (12.6s)

@@ -1,0 +1,43 @@
+tests  |   -   1 [chrome] › src/tests/projects-1/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 6
+tests  |   -   2 [chrome] › src/tests/projects-1/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 7
+tests  |   ✓   3 [chrome] › src/tests/projects-1/business-unit.spec.ts › Business unit › caso 6 (4.8s)
+tests  |   ✓   4 [chrome] › src/tests/projects-1/business-unit.spec.ts › Business unit › caso 7 (7.4s)
+tests  |   ✓   5 [chrome] › src/tests/projects-1/business-unit.spec.ts › Business unit › caso 8 (4.6s)
+tests  |   ✓   6 [chrome] › src/tests/projects-1/business-unit.spec.ts › Business unit › caso 9 (7.4s)
+tests  |   ✓   7 [chrome] › src/tests/projects-1/business-unit.spec.ts › Business unit › caso 10 (3.9s)
+tests  |   ✓   8 [chrome] › src/tests/projects-1/business-unit.spec.ts › Business unit › caso 11 (5.3s)
+tests  |   ✓   9 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 1 (14.4s)
+tests  |   -  10 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 2
+tests  |   ✓  11 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 3 (14.7s)
+tests  |   ✓  12 [chrome] › src/tests/projects-1/custom-views.spec.ts › Custom views › caso 4 (12.2s)
+tests  |   -  13 [chrome] › src/tests/projects-1/data-import.spec.ts › Data import › caso 1
+tests  |   -  14 [chrome] › src/tests/projects-1/data-import.spec.ts › Data import › caso 2
+tests  |   -  15 [chrome] › src/tests/projects-1/data-import.spec.ts › Data import › caso 3
+tests  |   -  16 [chrome] › src/tests/projects-1/unassigned-block.spec.ts › Unassigned block › caso 1
+tests  |   -  17 [chrome] › src/tests/projects-1/unassigned-block.spec.ts › Unassigned block › caso 2
+tests  |   -  18 [chrome] › src/tests/projects-1/restore-default-zone.spec.ts › Restore default zone › caso 1
+tests  |   ✓  19 [chrome] › src/tests/projects-1/tag-patterns.spec.ts › Tag patterns › caso 7 (5.5s)
+tests  |   ✓  20 [chrome] › src/tests/projects-1/tag-patterns.spec.ts › Tag patterns › caso 8 (8.0s)
+tests  |   ✓  21 [chrome] › src/tests/projects-1/tag-patterns.spec.ts › Tag patterns › caso 9 (5.9s)
+tests  |   ✓  22 [chrome] › src/tests/projects-1/record-classification.spec.ts › Record classification › caso 18 (5.4s)
+tests  |   ✓  23 [chrome] › src/tests/projects-1/record-classification.spec.ts › Record classification › caso 19 (4.8s)
+tests  |   ✓  24 [chrome] › src/tests/projects-1/record-classification.spec.ts › Record classification › caso 20 (3.7s)
+tests  |   ✓  25 [chrome] › src/tests/projects-1/record-classification.spec.ts › Record classification › caso 21 (4.0s)
+tests  |   ✓  26 [chrome] › src/tests/projects-1/record-classification.spec.ts › Record classification › caso 22 (3.7s)
+tests  |   ✓  27 [chrome] › src/tests/projects-1/record-classification.spec.ts › Record classification › caso 23 (4.2s)
+tests  |   ✓  28 [chrome] › src/tests/projects-1/scenario.spec.ts › Scenario › caso 5 (6.0s)
+tests  |   ✓  29 [chrome] › src/tests/projects-1/scenario.spec.ts › Scenario › caso 6 (7.1s)
+tests  |   ✓  30 [chrome] › src/tests/projects-1/scenario.spec.ts › Scenario › caso 7 (5.7s)
+tests  |   ✓  31 [chrome] › src/tests/projects-1/scenario.spec.ts › Scenario › caso 8 (5.8s)
+tests  |   ✓  32 [chrome] › src/tests/projects-1/scenario.spec.ts › Scenario › caso 9 (6.4s)
+tests  |   ✓  33 [chrome] › src/tests/projects-1/scenario.spec.ts › Scenario › caso 10 (6.2s)
+tests  |   ✓  34 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 8 (9.0s)
+tests  |   ✓  35 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 9 (8.7s)
+tests  |   ✓  36 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 10 (11.9s)
+tests  |   ✓  37 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 11 (4.5s)
+tests  |   ✓  38 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 12 (8.7s)
+tests  |   ✓  39 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 13 (45.8s)
+tests  |   ✓  40 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 14 (1.3m)
+tests  |   ✓  41 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 15 (50.4s)
+tests  |   ✓  42 [chrome] › src/tests/projects-1/user.spec.ts › User › caso 16 (1.3m)
+tests  |   -  43 [chrome] › src/tests/projects-1/version-dashboard.spec.ts › Version dashboard › caso 1

@@ -1,0 +1,59 @@
+tests  |   -   1 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 1
+tests  |   -   2 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 2
+tests  |   -   3 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 3
+tests  |   -   4 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 4
+tests  |   -   5 [chrome] › src/tests/reporting/archive-projects/archive-projects-with-archived-license.spec.ts › Archive projects with archived license › caso 5
+tests  |   -   6 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 1
+tests  |   -   7 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 2
+tests  |   -   8 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 3
+tests  |   -   9 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 4
+tests  |   -  10 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 5
+tests  |   -  11 [chrome] › src/tests/reporting/archive-projects/archive-projects-without-archived-license.spec.ts › Archive projects without archived license › caso 6
+tests  |   -  12 [chrome] › src/tests/reporting/dashboard-cross-domain.spec.ts › Dashboard cross domain › caso 1
+tests  |   -  13 [chrome] › src/tests/reporting/dashboard-cross-domain.spec.ts › Dashboard cross domain › caso 2
+tests  |   -  14 [chrome] › src/tests/reporting/dashboard-cross-domain.spec.ts › Dashboard cross domain › caso 3
+tests  |   -  15 [chrome] › src/tests/reporting/dashboard-cross-domain.spec.ts › Dashboard cross domain › caso 4
+tests  |   ✓  16 [chrome] › src/tests/reporting/dashboard-cross-domain.spec.ts › Dashboard cross domain › caso 5 (25.9s)
+tests  |   ✓  17 [chrome] › src/tests/reporting/dashboard-empty.spec.ts › Dashboard empty › caso 1 (3.4s)
+tests  |   ✓  18 [chrome] › src/tests/reporting/dashboard-empty.spec.ts › Dashboard empty › caso 2 (4.7s)
+tests  |   ✓  19 [chrome] › src/tests/reporting/dashboard-empty.spec.ts › Dashboard empty › caso 3 (22.5s)
+tests  |   ✓  20 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 1 (8.4s)
+tests  |   ✓  21 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 2 (10.6s)
+tests  |   ✓  22 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 3 (8.4s)
+tests  |   ✓  23 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 4 (8.4s)
+tests  |   ✓  24 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 5 (8.1s)
+tests  |   ✓  25 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 6 (15.7s)
+tests  |   ✓  26 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 7 (9.2s)
+tests  |   ✓  27 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 8 (11.2s)
+tests  |   ✓  28 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 9 (8.9s)
+tests  |   ✓  29 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 10 (9.5s)
+tests  |   ✓  30 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 11 (12.2s)
+tests  |   ✓  31 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 12 (9.9s)
+tests  |   ✓  32 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 13 (10.5s)
+tests  |   ✓  33 [chrome] › src/tests/reporting/dashboard.spec.ts › Dashboard › caso 14 (9.1s)
+tests  |   ✓  34 [chrome] › src/tests/reporting/project-dashboard.spec.ts › Project dashboard › caso 1 (7.3s)
+tests  |   ✓  35 [chrome] › src/tests/reporting/project-list.spec.ts › Project list › caso 1 (4.2s)
+tests  |   ✓  36 [chrome] › src/tests/reporting/project-list.spec.ts › Project list › caso 2 (3.9s)
+tests  |   ✓  37 [chrome] › src/tests/reporting/project-list.spec.ts › Project list › caso 3 (9.6s)
+tests  |   ✓  38 [chrome] › src/tests/reporting/project-list.spec.ts › Project list › caso 4 (4.2s)
+tests  |   ✓  39 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 1 (22.4s)
+tests  |   ✓  40 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 2 (22.1s)
+tests  |   ✓  41 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 3 (22.3s)
+tests  |   ✓  42 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 4 (22.5s)
+tests  |   ✓  43 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 5 (22.1s)
+tests  |   ✓  44 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 6 (25.6s)
+tests  |   ✓  45 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 7 (24.1s)
+tests  |   ✓  46 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 8 (22.0s)
+tests  |   ✓  47 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 9 (22.0s)
+tests  |   ✓  48 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 10 (22.1s)
+tests  |   ✓  49 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 11 (24.6s)
+tests  |   ✓  50 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 12 (22.4s)
+tests  |   ✓  51 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 13 (23.0s)
+tests  |   ✓  52 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 14 (22.4s)
+tests  |   ✓  53 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 15 (22.0s)
+tests  |   ✓  54 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 16 (22.4s)
+tests  |   -  55 [chrome] › src/tests/reporting/reports-generation.spec.ts › Reports generation › caso 17
+tests  |   ✓  56 [chrome] › src/tests/reporting/reports-workflows.spec.ts › Reports workflows › caso 1 (37.4s)
+tests  |   ✓  57 [chrome] › src/tests/reporting/reports-workflows.spec.ts › Reports workflows › caso 2 (37.7s)
+tests  |   ✓  58 [chrome] › src/tests/reporting/templates-dashboard.spec.ts › Templates dashboard › caso 1 (8.6s)
+tests  |   ✓  59 [chrome] › src/tests/reporting/templates-dashboard.spec.ts › Templates dashboard › caso 2 (11.2s)

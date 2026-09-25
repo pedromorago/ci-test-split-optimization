@@ -1,0 +1,15 @@
+tests  |   -   1 [chrome] › src/tests/rules/questionnaire.spec.ts › Questionnaire › caso 4
+tests  |   ✓   2 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 3 (4.8s)
+tests  |   ✓   3 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 4 (50.4s)
+tests  |   ✓   4 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 5 (45.5s)
+tests  |   -   5 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 6
+tests  |   ✓   6 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 7 (48.0s)
+tests  |   ✓   7 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 8 (48.6s)
+tests  |   ✓   8 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 9 (44.5s)
+tests  |   ✓   9 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 10 (49.3s)
+tests  |   ✓  10 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 11 (51.4s)
+tests  |   ✓  11 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 12 (49.4s)
+tests  |   ✓  12 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 13 (46.8s)
+tests  |   ✓  13 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 14 (50.7s)
+tests  |   -  14 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 15
+tests  |   ✓  15 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 16 (1.3m)

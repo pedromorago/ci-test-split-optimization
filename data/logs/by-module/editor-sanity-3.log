@@ -1,0 +1,39 @@
+tests  |   ✓   1 [chrome] › src/tests/editor/artifact.spec.ts › Artifact › caso 1 (18.1s)
+tests  |   -   2 [chrome] › src/tests/editor/data-import.spec.ts › Data import › caso 1
+tests  |   -   3 [chrome] › src/tests/editor/data-import.spec.ts › Data import › caso 2
+tests  |   -   4 [chrome] › src/tests/editor/data-import.spec.ts › Data import › caso 3
+tests  |   ✘   5 [chrome] › src/tests/editor/block-inspector.spec.ts › Block inspector › caso 1 (1.7m)
+tests  |   ✓   6 [chrome] › src/tests/editor/block-inspector.spec.ts › Block inspector › caso 1 (27.0s)
+tests  |   -   7 [chrome] › src/tests/editor/block-inspector.spec.ts › Block inspector › caso 2
+tests  |   ✓   8 [chrome] › src/tests/editor/block-inspector.spec.ts › Block inspector › caso 3 (27.7s)
+tests  |   ✓   9 [chrome] › src/tests/editor/block-inspector.spec.ts › Block inspector › caso 4 (26.4s)
+tests  |   ✓  10 [chrome] › src/tests/editor/block-inspector.spec.ts › Block inspector › caso 5 (27.0s)
+tests  |   ✓  11 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 1 (31.4s)
+tests  |   ✓  12 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 2 (23.4s)
+tests  |   ✓  13 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 3 (21.6s)
+tests  |   ✓  14 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 4 (22.5s)
+tests  |   ✓  15 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 5 (11.7s)
+tests  |   ✓  16 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 6 (13.6s)
+tests  |   ✓  17 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 7 (11.7s)
+tests  |   ✓  18 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 8 (11.5s)
+tests  |   ✓  19 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 9 (20.7s)
+tests  |   ✓  20 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 10 (20.1s)
+tests  |   ✓  21 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 11 (20.3s)
+tests  |   ✓  22 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 12 (8.9s)
+tests  |   ✓  23 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 13 (47.1s)
+tests  |   ✓  24 [chrome] › src/tests/editor/zone-block.spec.ts › Zone block › caso 14 (6.8s)
+tests  |   -  25 [chrome] › src/tests/editor/unassigned-block.spec.ts › Unassigned block › caso 1
+tests  |   -  26 [chrome] › src/tests/editor/unassigned-block.spec.ts › Unassigned block › caso 2
+tests  |   ✓  27 [chrome] › src/tests/editor/block-with-user.spec.ts › Block with user › caso 1 (30.0s)
+tests  |   ✓  28 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 1 (8.5s)
+tests  |   ✓  29 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 2 (9.5s)
+tests  |   ✓  30 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 3 (9.2s)
+tests  |   ✓  31 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 4 (8.8s)
+tests  |   ✓  32 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 5 (8.4s)
+tests  |   ✓  33 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 6 (7.7s)
+tests  |   ✓  34 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 7 (12.5s)
+tests  |   ✓  35 [chrome] › src/tests/editor/project-import.spec.ts › Project import › caso 8 (17.7s)
+tests  |   ✓  36 [chrome] › src/tests/editor/questionnaire.spec.ts › Questionnaire › caso 1 (11.8s)
+tests  |   ✓  37 [chrome] › src/tests/editor/questionnaire.spec.ts › Questionnaire › caso 2 (21.7s)
+tests  |   -  38 [chrome] › src/tests/editor/restore-default-zone.spec.ts › Restore default zone › caso 1
+tests  |   ✓  39 [chrome] › src/tests/editor/restore-previous-board.spec.ts › Restore previous board › caso 1 (20.7s)

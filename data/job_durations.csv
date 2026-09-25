@@ -1,0 +1,15 @@
+config,container,job_duration_min
+by-module,admin,59.73
+by-module,catalog,46.48
+by-module,reporting,30.35
+by-module,projects-1,27.71
+by-module,editor,26.87
+by-module,rules,25.95
+by-module,projects-2,23.75
+balanced,admin,33.64
+balanced,catalog,34.03
+balanced,reporting,34.31
+balanced,projects-1,34.13
+balanced,editor,34.59
+balanced,rules,34.57
+balanced,projects-2,34.81

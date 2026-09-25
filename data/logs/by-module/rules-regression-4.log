@@ -1,0 +1,6 @@
+tests  |   -  1 [chrome] › src/tests/rules/questionnaire.spec.ts › Questionnaire › caso 1
+tests  |   -  2 [chrome] › src/tests/rules/questionnaire.spec.ts › Questionnaire › caso 2
+tests  |   -  3 [chrome] › src/tests/rules/questionnaire.spec.ts › Questionnaire › caso 3
+tests  |   ✓  4 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 1 (3.0s)
+tests  |   ✓  5 [chrome] › src/tests/rules/rules.spec.ts › Rules › caso 2 (4.9s)
+tests  |   ✓  6 [chrome] › src/tests/rules/workflow-rule.spec.ts › Workflow rule › caso 1 (8.9s)
