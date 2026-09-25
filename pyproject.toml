@@ -1,3 +1,5 @@
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
+# PuLP 3.3 announces API changes for 4.0; the code is pinned to 3.3.2.
+filterwarnings = ["ignore::DeprecationWarning:pulp.*"]
